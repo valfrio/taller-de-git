@@ -1,3 +1,4 @@
 # AUTHORS
 
-* Salvador Martinez <salvador@iesgrancapitan.org>
+* Sergio Gómez <sergio@uco.es>
+* Salvador Martínez Jiménez
